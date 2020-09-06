@@ -1,0 +1,110 @@
+2020-09-06 15:13:27,897 INFO  t.p.b.s.Game.scoring: Total Score[36]
+2020-09-06 15:13:27,897 INFO  t.p.b.s.Game.startGameV2: Calling startGame() for next frame. Current frame[5]
+2020-09-06 15:13:27,897 INFO  t.p.b.s.Game.startGameV2: Starting frame[6].
+2020-09-06 15:13:27,897 INFO  t.p.b.s.Game.startGameV2: Roll-1: Pins knocked down[7]
+2020-09-06 15:13:27,898 INFO  t.p.b.s.Game.startGameV2: Roll-2: Pins knocked down[2]
+2020-09-06 15:13:27,898 INFO  t.p.b.s.Game.scoring: Current Frame[6]
+2020-09-06 15:13:27,898 INFO  t.p.b.s.Game.scoring: FrameScore[9] for frame[6]
+2020-09-06 15:13:27,898 INFO  t.p.b.s.Game.scoring: Total Score[45]
+2020-09-06 15:13:27,899 INFO  t.p.b.s.Game.startGameV2: Calling startGame() for next frame. Current frame[6]
+2020-09-06 15:13:27,901 INFO  t.p.b.s.Game.startGameV2: Starting frame[7].
+2020-09-06 15:13:27,901 INFO  t.p.b.s.Game.startGameV2: Roll-1: Pins knocked down[0]
+2020-09-06 15:13:27,901 INFO  t.p.b.s.Game.startGameV2: Roll-2: Pins knocked down[3]
+2020-09-06 15:13:27,902 INFO  t.p.b.s.Game.scoring: Current Frame[7]
+2020-09-06 15:13:27,902 INFO  t.p.b.s.Game.scoring: FrameScore[3] for frame[7]
+2020-09-06 15:13:27,902 INFO  t.p.b.s.Game.scoring: Total Score[48]
+2020-09-06 15:13:27,902 INFO  t.p.b.s.Game.startGameV2: Calling startGame() for next frame. Current frame[7]
+2020-09-06 15:13:27,903 INFO  t.p.b.s.Game.startGameV2: Starting frame[8].
+2020-09-06 15:13:27,903 INFO  t.p.b.s.Game.startGameV2: Roll-1: Pins knocked down[2]
+2020-09-06 15:13:27,903 INFO  t.p.b.s.Game.startGameV2: Roll-2: Pins knocked down[0]
+2020-09-06 15:13:27,903 INFO  t.p.b.s.Game.scoring: Current Frame[8]
+2020-09-06 15:13:27,904 INFO  t.p.b.s.Game.scoring: FrameScore[2] for frame[8]
+2020-09-06 15:13:27,904 INFO  t.p.b.s.Game.scoring: Total Score[50]
+2020-09-06 15:13:27,904 INFO  t.p.b.s.Game.startGameV2: Calling startGame() for next frame. Current frame[8]
+2020-09-06 15:13:27,904 INFO  t.p.b.s.Game.startGameV2: Starting frame[9].
+2020-09-06 15:13:27,905 INFO  t.p.b.s.Game.startGameV2: Roll-1: Pins knocked down[3]
+2020-09-06 15:13:27,905 INFO  t.p.b.s.Game.startGameV2: Roll-2: Pins knocked down[2]
+2020-09-06 15:13:27,905 INFO  t.p.b.s.Game.scoring: Current Frame[9]
+2020-09-06 15:13:27,905 INFO  t.p.b.s.Game.scoring: FrameScore[5] for frame[9]
+2020-09-06 15:13:27,905 INFO  t.p.b.s.Game.scoring: Total Score[55]
+2020-09-06 15:13:27,906 INFO  t.p.b.s.Game.startGameV2: Calling startGame() for next frame. Current frame[9]
+2020-09-06 15:13:27,906 INFO  t.p.b.s.Game.startGameV2: Starting frame[10].
+2020-09-06 15:13:27,906 INFO  t.p.b.s.Game.startGameV2: Roll-1: Pins knocked down[0]
+2020-09-06 15:13:27,906 INFO  t.p.b.s.Game.startGameV2: Roll-2: Pins knocked down[9]
+2020-09-06 15:13:27,907 INFO  t.p.b.s.Game.scoring: Current Frame[10]
+2020-09-06 15:13:27,913 INFO  t.p.b.s.Game.scoring: FrameScore[9] for frame[10]
+2020-09-06 15:13:27,913 INFO  t.p.b.s.Game.scoring: Total Score[64]
+2020-09-06 15:13:27,913 INFO  t.p.b.s.Game.scoring: Reached Frame[10]. Validating bonus rolls criteria.
+2020-09-06 15:13:27,914 INFO  t.p.b.s.Game.frame10Extras: Frame[10].Checking for Strike or Spare
+2020-09-06 15:13:27,914 INFO  t.p.b.s.Game.frame10Extras: No Strike or Spare found. No score updates required.
+2020-09-06 15:13:27,915 INFO  t.p.b.s.Game.startGameV2: Game completed. Calculating Statistics......
+2020-09-06 15:13:27,915 INFO  t.p.b.s.Game.startGameV2: Total Strikes[0]
+2020-09-06 15:13:27,915 INFO  t.p.b.s.Game.startGameV2: Total Spared[0]
+2020-09-06 15:13:27,915 INFO  t.p.b.GameMain$.main: ****** FINAL SCORE:[64] ********
+2020-09-06 15:22:59,472 INFO  t.p.b.s.Game.startGameV2: Starting frame[10].
+2020-09-06 15:23:00,406 INFO  t.p.b.s.Game.startGameV2: Roll-1: Pins knocked down[5]
+2020-09-06 15:23:02,404 INFO  t.p.b.s.Game.startGameV2: Roll-2: Pins knocked down[2]
+2020-09-06 15:23:13,958 INFO  t.p.b.s.Game.scoring: Current Frame[10]
+2020-09-06 15:23:36,237 INFO  t.p.b.s.Game.scoring: FrameScore[7] for frame[10]
+2020-09-06 15:23:45,739 INFO  t.p.b.s.Game.scoring: Total Score[57]
+2020-09-06 15:23:50,244 INFO  t.p.b.s.Game.scoring: Reached Frame[10]. Validating bonus rolls criteria.
+2020-09-06 15:23:51,211 INFO  t.p.b.s.Game.frame10Extras: Frame[10].Checking for Strike or Spare
+2020-09-06 15:23:51,222 INFO  t.p.b.s.Game.frame10Extras: No Strike or Spare found. No score updates required.
+2020-09-06 15:23:57,057 INFO  t.p.b.s.Game.startGameV2: Game completed. Calculating Statistics......
+2020-09-06 15:23:58,102 INFO  t.p.b.s.Game.startGameV2: Total Strikes[0]
+2020-09-06 15:24:05,085 INFO  t.p.b.s.Game.startGameV2: Total Spared[0]
+2020-09-06 15:59:59,756 INFO  t.p.b.s.Game.startGame: Starting frame[10].
+2020-09-06 15:59:59,765 INFO  t.p.b.s.Game.startGame: Roll-1: Pins knocked down[1]
+2020-09-06 15:59:59,766 INFO  t.p.b.s.Game.startGame: Roll-2: Pins knocked down[0]
+2020-09-06 15:59:59,767 INFO  t.p.b.s.Game.scoring: Current Frame[10]
+2020-09-06 15:59:59,769 INFO  t.p.b.s.Game.scoring: FrameScore[1] for frame[10]
+2020-09-06 15:59:59,771 INFO  t.p.b.s.Game.scoring: Total Score[1]
+2020-09-06 15:59:59,772 INFO  t.p.b.s.Game.scoring: Reached Frame[10]. Validating bonus rolls criteria.
+2020-09-06 15:59:59,772 INFO  t.p.b.s.Game.frame10Extras: Frame[10].Checking for Strike or Spare
+2020-09-06 15:59:59,772 INFO  t.p.b.s.Game.frame10Extras: No Strike or Spare found. No score updates required.
+2020-09-06 15:59:59,773 INFO  t.p.b.s.Game.startGame: Game completed. Calculating Statistics......
+2020-09-06 15:59:59,773 INFO  t.p.b.s.Game.startGame: Total Strikes[0]
+2020-09-06 15:59:59,774 INFO  t.p.b.s.Game.startGame: Total Spares[0]
+2020-09-06 15:59:59,858 INFO  t.p.b.s.Game.startGameV2: Starting frame[10].
+2020-09-06 15:59:59,859 INFO  t.p.b.s.Game.startGameV2: Roll-1: Pins knocked down[5]
+2020-09-06 15:59:59,860 INFO  t.p.b.s.Game.startGameV2: Roll-2: Pins knocked down[2]
+2020-09-06 15:59:59,861 INFO  t.p.b.s.Game.scoring: Current Frame[10]
+2020-09-06 15:59:59,865 INFO  t.p.b.s.Game.scoring: FrameScore[7] for frame[10]
+2020-09-06 15:59:59,866 INFO  t.p.b.s.Game.scoring: Total Score[57]
+2020-09-06 15:59:59,867 INFO  t.p.b.s.Game.scoring: Reached Frame[10]. Validating bonus rolls criteria.
+2020-09-06 15:59:59,869 INFO  t.p.b.s.Game.frame10Extras: Frame[10].Checking for Strike or Spare
+2020-09-06 15:59:59,870 INFO  t.p.b.s.Game.frame10Extras: No Strike or Spare found. No score updates required.
+2020-09-06 15:59:59,871 INFO  t.p.b.s.Game.startGameV2: Game completed. Calculating Statistics......
+2020-09-06 15:59:59,872 INFO  t.p.b.s.Game.startGameV2: Total Strikes[0]
+2020-09-06 15:59:59,872 INFO  t.p.b.s.Game.startGameV2: Total Spared[0]
+2020-09-06 15:59:59,878 INFO  t.p.b.s.Game.scoring: Current Frame[2]
+2020-09-06 15:59:59,878 INFO  t.p.b.s.Game.scoring: Total Score[70]
+2020-09-06 15:59:59,882 INFO  t.p.b.s.Game.scoring: Current Frame[2]
+2020-09-06 15:59:59,883 INFO  t.p.b.s.Game.scoring: Total Score[70]
+2020-09-06 15:59:59,884 INFO  t.p.b.s.Game.scoring: Current Frame[2]
+2020-09-06 15:59:59,885 INFO  t.p.b.s.Game.scoring: Total Score[67]
+2020-09-06 15:59:59,887 INFO  t.p.b.s.Game.scoring: Current Frame[2]
+2020-09-06 15:59:59,888 INFO  t.p.b.s.Game.scoring: FrameScore[9] for frame[2]
+2020-09-06 15:59:59,889 INFO  t.p.b.s.Game.scoring: Total Score[78]
+2020-09-06 15:59:59,891 INFO  t.p.b.s.Game.scoring: Current Frame[2]
+2020-09-06 15:59:59,892 INFO  t.p.b.s.Game.scoring: FrameScore[9] for frame[2]
+2020-09-06 15:59:59,892 INFO  t.p.b.s.Game.scoring: Total Score[76]
+2020-09-06 15:59:59,895 INFO  t.p.b.s.Game.scoring: Current Frame[2]
+2020-09-06 15:59:59,895 INFO  t.p.b.s.Game.scoring: FrameScore[7] for frame[2]
+2020-09-06 15:59:59,896 INFO  t.p.b.s.Game.scoring: Total Score[57]
+2020-09-06 15:59:59,899 INFO  t.p.b.s.Game.scoring: Current Frame[2]
+2020-09-06 15:59:59,902 INFO  t.p.b.s.Game.frame10Extras: Frame[10].Checking for Strike or Spare
+2020-09-06 15:59:59,903 INFO  t.p.b.s.Game.frame10Extras: Bonus roll for Strike in 10th Frame
+2020-09-06 15:59:59,903 INFO  t.p.b.s.Game.frame10Extras: Simulating second roll
+2020-09-06 15:59:59,904 INFO  t.p.b.s.Game.frame10Extras: !!! STRIKE AGAIN !!!
+2020-09-06 15:59:59,904 INFO  t.p.b.s.Game.frame10Extras: Simulating third roll
+2020-09-06 15:59:59,904 INFO  t.p.b.s.Game.frame10Extras: !!! Third Strike in a row. You are on a roll :) !!!
+2020-09-06 15:59:59,906 INFO  t.p.b.s.Game.frame10Extras: Frame[10].Checking for Strike or Spare
+2020-09-06 15:59:59,907 INFO  t.p.b.s.Game.frame10Extras: Bonus roll for Spare in 10th Frame
+2020-09-06 15:59:59,907 INFO  t.p.b.s.Game.frame10Extras: Simulating last roll
+2020-09-06 15:59:59,908 INFO  t.p.b.s.Game.frame10Extras: Last attempt roll score[7]
+2020-09-06 15:59:59,908 INFO  t.p.b.s.Game.frame10Extras: Updating scores...
+2020-09-06 15:59:59,912 INFO  t.p.b.s.Game.frame10Extras: Frame[10].Checking for Strike or Spare
+2020-09-06 15:59:59,913 INFO  t.p.b.s.Game.frame10Extras: No Strike or Spare found. No score updates required.
+2020-09-06 15:59:59,916 INFO  t.p.b.s.Game.updateFrame: !!!Bingo - Strike Roll !!!. Frame[1]
+2020-09-06 15:59:59,917 INFO  t.p.b.s.Game.updateFrame: !!!Spare Roll !!!. Frame[2]
