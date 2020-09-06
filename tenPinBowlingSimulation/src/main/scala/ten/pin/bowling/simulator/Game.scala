@@ -121,7 +121,7 @@ class Game extends Logging {
       case 10 =>
         logger.info("Game completed. Calculating Statistics......")
         logger.info(s"Total Strikes[$strikeCount]")
-        logger.info(s"Total Spared[$spareCount]")
+        logger.info(s"Total Spares[$spareCount]")
       case _ =>
         currentFrame += 1
     }
