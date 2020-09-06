@@ -33,7 +33,7 @@ class Game extends Logging {
   /**
     * FrameStats Map will be dynamically updated with the scores during the runtime.
     * This will enable the display of player's performance Frame by Frame.()
-    * Typical values will be (1 -> ("STRIKE","")), (2 ->("SPARE","7|/")), (3,("none","7|2")
+    * Typical values will be (1 -> ("STRIKE","")), (2 ->("SPARE","7|/")), (3,("none","7|2"))
     */
   private[simulator] var framesStats: Map[Int, (String, String)] = Map.empty
 
