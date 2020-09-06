@@ -1,0 +1,129 @@
+<!DOCTYPE html >
+<html>
+        <head>
+          <title>simulator - tenPinBowlingSimulation 1.0-SNAPSHOT API - ten.pin.bowling.simulator</title>
+          <meta name="description" content="simulator - tenPinBowlingSimulation 1.0 - SNAPSHOT API - ten.pin.bowling.simulator" />
+          <meta name="keywords" content="simulator tenPinBowlingSimulation 1.0 SNAPSHOT API ten.pin.bowling.simulator" />
+          <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+          
+      <link href="../../../../lib/template.css" media="screen" type="text/css" rel="stylesheet" />
+      <link href="../../../../lib/diagrams.css" media="screen" type="text/css" rel="stylesheet" id="diagrams-css" />
+      <script type="text/javascript" src="../../../../lib/jquery.js" id="jquery-js"></script>
+      <script type="text/javascript" src="../../../../lib/jquery-ui.js"></script>
+      <script type="text/javascript" src="../../../../lib/template.js"></script>
+      <script type="text/javascript" src="../../../../lib/tools.tooltip.js"></script>
+      
+      <script type="text/javascript">
+         if(top === self) {
+            var url = '../../../../index.html';
+            var hash = 'ten.pin.bowling.simulator.package';
+            var anchor = window.location.hash;
+            var anchor_opt = '';
+            if (anchor.length >= 1)
+              anchor_opt = '@' + anchor.substring(1);
+            window.location.href = url + '#' + hash + anchor_opt;
+         }
+   	  </script>
+    
+        </head>
+        <body class="value">
+      <div id="definition">
+        <img alt="Package" src="../../../../lib/package_big.png" />
+        <p id="owner"><a href="../../../package.html" class="extype" name="ten">ten</a>.<a href="../../package.html" class="extype" name="ten.pin">pin</a>.<a href="../package.html" class="extype" name="ten.pin.bowling">bowling</a></p>
+        <h1>simulator</h1><span class="permalink">
+      <a href="../../../../index.html#ten.pin.bowling.simulator.package" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      </div>
+
+      <h4 id="signature" class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">package</span>
+      </span>
+      <span class="symbol">
+        <span class="name">simulator</span>
+      </span>
+      </h4>
+      
+          <div id="comment" class="fullcommenttop"></div>
+        
+
+      <div id="mbrsel">
+        <div id="textfilter"><span class="pre"></span><span class="input"><input id="mbrsel-input" type="text" accesskey="/" /></span><span class="post"></span></div>
+        
+        
+        <div id="visbl">
+            <span class="filtertype">Visibility</span>
+            <ol><li class="public in"><span>Public</span></li><li class="all out"><span>All</span></li></ol>
+          </div>
+      </div>
+
+      <div id="template">
+        <div id="allMembers">
+        
+
+        <div id="types" class="types members">
+              <h3>Type Members</h3>
+              <ol><li name="ten.pin.bowling.simulator.Game" visbl="pub" data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="GameextendsLogging"></a>
+      <a id="Game:Game"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">class</span>
+      </span>
+      <span class="symbol">
+        <a href="Game.html"><span class="name">Game</span></a><span class="result"> extends <a href="../helper/Logging.html" class="extype" name="ten.pin.bowling.helper.Logging">Logging</a></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#ten.pin.bowling.simulator.package@GameextendsLogging" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      <p class="shortcomment cmt">Game class is a simple Ten-Point Bowling game simulator.</p><div class="fullcomment"><div class="comment cmt"><p>Game class is a simple Ten-Point Bowling game simulator.
+Simply create a object of the class and call def startGame(): This will simulate real-life game scenario where
+the game consists of 10 frames. In each frame the player has two opportunities to knock
+down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes
+and spares. Interim frame by frame score will be captured in the console as well in the log file.</p><p>******************   RULES and ASSUMPTIONS   *******************************
+SPARE: A spare is when the player knocks down all 10 pins in two tries. The bonus for that frame is the number of
+pins knocked down by the next roll.</p><p>STRIKE: A strike is when the player knocks down all 10 pins on their first try. The bonus for that frame is the value of
+the next two balls rolled.</p><p>Special case: Frame10\n
+In the tenth frame a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame.
+However no more than three balls can be rolled in the tenth frame.
+Max points a player can collect in frame10 is 30
+</p></div></div>
+    </li></ol>
+            </div>
+
+        
+
+        
+
+        
+
+        
+        </div>
+
+        <div id="inheritedMembers">
+        
+        
+        </div>
+
+        <div id="groupedMembers">
+        <div class="group" name="Ungrouped">
+              <h3>Ungrouped</h3>
+              
+            </div>
+        </div>
+
+      </div>
+
+      <div id="tooltip"></div>
+
+      <div id="footer">  </div>
+
+
+    </body>
+      </html>
