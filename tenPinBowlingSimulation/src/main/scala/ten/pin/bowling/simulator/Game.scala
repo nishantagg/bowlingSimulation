@@ -10,7 +10,7 @@ import ten.pin.bowling.helper.{Constants, Logging}
   * down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes
   * and spares. Interim frame by frame score will be captured in the console as well in the log file.
   *
-  * ******************   RULES and ASSUMPTIONS   *******************************
+  * ******************   RULES and ASSUMPTIONS   ******************************
   * SPARE: A spare is when the player knocks down all 10 pins in two tries. The bonus for that frame is the number of
   * pins knocked down by the next roll.
   *
