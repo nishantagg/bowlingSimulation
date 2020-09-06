@@ -34,7 +34,7 @@ Will produce jar in the target folder
 Please feel free to fork the repository. Any suggestions to further the simulation will be greatly appreciated.
 
 ### Run the simulation
-More the main function create an object of class Game.
+From the main function of your code create an object of class Game.
 ```scala
 //Running in full automated mode - Version1
     val gameObj = new Game()
