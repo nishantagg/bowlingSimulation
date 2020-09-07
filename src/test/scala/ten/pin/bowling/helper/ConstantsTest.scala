@@ -1,7 +1,7 @@
 package ten.pin.bowling.helper
 
-import org.scalatest.FunSuite
+import ten.pin.bowling.UnitSpec
 
-class ConstantsTest extends FunSuite {
+class ConstantsTest extends UnitSpec {
 
 }
